@@ -1,0 +1,8 @@
+{
+    "name": "wedding-gallery-root",
+    "private": true,
+    "scripts": {
+        "install": "echo 'Vercel install step (ignored, handled in build)'",
+        "build": "cd website && npm install && npm run build"
+    }
+}
